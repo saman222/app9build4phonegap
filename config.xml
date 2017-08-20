@@ -5,11 +5,10 @@
         id        = "com.lmskaran.demo2"
         versionCode = "3"
         version   = "1">
-    <name>lmskaran</name>
+    <name>ehowzeh</name>
 
     <description>
-        نسخه اختصاصی راهبران سامانه مرکزی آموزش مجازی برای بررسی آزمایشی
-    </description>
+نسخه آزمایشی    </description>
 
     <author href="http://lmskaran.com" email="info@lmskaran.com">
         lmskaran ltd
